@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Brandon.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-My name is Brandon Jones, I'm a Software Developer and Wargaming enthusiant based in South Florida.
+My name is Brandon Jones, I'm a Software Developer and Wargaming enthusiast based in South Florida.
 
 - 🌱 I’m currently learning: Blazor and Entity Framework
 
