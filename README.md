@@ -1,15 +1,15 @@
 <h2> Hey there! I'm Brandon.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-My name is Brandon Jones, I'm a Software Developer and Wargaming enthusiast based in South Florida.
+My name is Brandon Jones, I'm a .NET Developer and Wargaming enthusiast based in South Florida.
 
-- 🌱 I’m currently learning: Blazor and Entity Framework
+- 🌱 I’m currently learning: Blazor WASM
 
 - :computer: Check out my portfolio https://www.brandonkjones.dev/
 
 - 📫 How to reach me: brandon.jones@gmx.com
 
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 
 - ⚡ Fun fact: I enjoy tabletop gaming and wargaming 
 
