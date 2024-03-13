@@ -9,7 +9,7 @@ My name is Brandon Jones, I'm a .NET Developer and Wargaming enthusiast based in
 
 - 📫 How to reach me: brandon.jones@gmx.com
 
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 
 - ⚡ Fun fact: I enjoy tabletop gaming and wargaming 
 
